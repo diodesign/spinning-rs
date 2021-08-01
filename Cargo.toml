@@ -22,4 +22,4 @@ std = []
 travis-ci = { repository = "4lDO2/spinning-rs", branch = "master" }
 
 [dependencies]
-lock_api = "0.4"
+lock_api = "0.4.4"
